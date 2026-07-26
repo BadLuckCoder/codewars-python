@@ -10,7 +10,7 @@
 
 | Kyu Level | Solved Katas |
 | :---: | :---: |
-| 6 kyu | 3 |
+| 6 kyu | 4 |
 | 5 kyu | 1 |
 
 ---
@@ -24,3 +24,5 @@
 | **Consecutive Strings** | `6 kyu` | [Code](./6kyu/consecutive_strings.py) | Array Slicing, Strings, Sliding Window |
 | **Tribonacci Sequence** | `6kyu` | [Code](./6kyu/tribonacci%20_sequence.py) |
 Number Theory, Arrays, Fundamentals |
+| **Sort The Odd** | `6kyu` | [Code](./6kyu/sort_the_odd.py) |
+Fundamentals, Arrays, Sorting
