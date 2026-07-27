@@ -12,7 +12,7 @@
 | :---: | :---: |
 | 8 KYU | 1 |
 | 7 kyu | 1 |
-| 6 kyu | 4 |
+| 6 kyu | 5 |
 | 5 kyu | 1 |
 
 ---
@@ -28,3 +28,5 @@
 Number Theory, Arrays, Fundamentals |
 | **Sort The Odd** | `6kyu` | [Code](./6kyu/sort_the_odd.py) | 
 Fundamentals, Arrays, Sorting |
+| **Your order, please** | `6kyu` | [Code](./6kyu/your_order_please.py) | 
+String, Fundamentals |
