@@ -2,6 +2,8 @@
 
 ![Codewars Badge](https://www.codewars.com/users/BadLuckCoder/badges/micro)
 
+My Profile: [text](https://www.codewars.com/users/BadLuckCoder)
+
 مستودع يضم حلولي لمسائل برمجية على منصة **Codewars** باستخدام لغة **Python**.
 
 ---
