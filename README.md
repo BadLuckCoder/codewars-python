@@ -10,6 +10,7 @@
 
 | Kyu Level | Solved Katas |
 | :---: | :---: |
+| 7 kyu | 1 |
 | 6 kyu | 4 |
 | 5 kyu | 1 |
 
